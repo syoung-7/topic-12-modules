@@ -1,1 +1,8 @@
-
+Report saved to car_report.txt
+Car Value Report
+----------------
+Car: 2024 F150
+Original Price: $50,000.00
+Depreciation Rate: 5.0%
+Age: 2 years
+Estimated Current Value: $45,125.00
